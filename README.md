@@ -1,5 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shohjaohn | @244
-=========================================================================================================================================
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=200&width=2000&waveHeight=80&bannerText=Waves" />
+
+![Header](./github-header-banner.png)
+
 ```yaml
 current_job: Looking for opportunities
 
@@ -49,3 +51,5 @@ hobbies:
  --- 
  
  # 💌How to reach me
+
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=200&width=2000&density=20&bannerText=Rainy" />
