@@ -41,15 +41,4 @@ hobbies:
 
 ---
 
-## Badges
-
-<b>My GitHub Stats</b>
-<a href="http://www.github.com/mrShox-244"><img src="https://github-readme-stats.vercel.app/api?username=mrShox-244&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mrShox-244's GitHub stats" /></a>
-
-
- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) 
- --- 
- 
- # 💌How to reach me
-
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=200&width=2000&density=20&bannerText=Rainy" />
