@@ -26,8 +26,8 @@ hobbies:
 - "Anime"
 
 * 🌍  I'm based in Uzbekistan, Tashkent
-* ✉️  You can contact me at [mralteryt9@gmail.com](mailto:mralteryt9@gmail.com)
-* 🧠  I'm currently learning C
+* ✉️  You can contact me at [mralteryt9@gmail.com]
+* 🧠  I'm currently learning Python
 ```
 ## Some Tools I Have Learned And Used
 <p align="left">
